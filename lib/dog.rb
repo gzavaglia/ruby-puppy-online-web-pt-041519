@@ -13,6 +13,7 @@ class Dog
   end
   
   def self.all
-    puts @@all_names
+    
+    
   end 
 end 
